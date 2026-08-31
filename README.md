@@ -8,3 +8,4 @@ Psoriasis often requires biologic therapy for moderate-to-severe disease. Howeve
 [Data](Datasets) collected from Dermatology Associates of Tallahassee. 
 
 ## Additional Sources
+[Sources](Sources) contains relevant data and model samples from credible sources. 
