@@ -1,6 +1,6 @@
 # Insurance-Approval-of-Psoriasis-Biologics
 This repository contains corresponding data, code, and citations. 
-<img width="1200" height="675" alt="seo-1993-bs-coronavirus-covid-medical-t-370271002-1200x675" src="https://github.com/user-attachments/assets/0d9087b5-d7ed-4320-82c4-2b476b8ee659" /> />
+<img width="2400" height="1350" alt="GettyImages-1323505857" src="https://github.com/user-attachments/assets/f11dade8-d0f9-4e68-ae97-4c082956e3e8" />
 ## Relevant Data 
 
 ## Model Training Code
