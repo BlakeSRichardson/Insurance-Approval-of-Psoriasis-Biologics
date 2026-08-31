@@ -1,21 +1,22 @@
-# Dataset Variables
-- Patient age and sex
-- Insurance type:
-  - Medicare
-  - Medicaid
-  - Private/commercial insurance
-- Biologic prescribed:
-  - IL-17 inhibitors
-  - TNF-α inhibitors
-  - IL-23 inhibitors
-  - IL-12/23 inhibitors
-- Time from prescription to:
-  - PA submission
-  - PA approval or denial
-  - Treatment initiation
-- Number of PA denials or appeals
-- Need for therapy switching due to insurance barriers
-- Step therapy requirements or formulary substitutions
-- Previous biologic or systemic therapy failures
-- Presence of psoriatic arthritis
-- Disease severity indicators, including body surface area involvement, if documented
+Dataset Variables
+
+Patient age and sex
+Insurance type:
+    Medicare
+    Medicaid
+    Private/commercial insurance
+Biologic prescribed:
+    IL-17 inhibitors
+    TNF-α inhibitors
+    IL-23 inhibitors
+    IL-12/23 inhibitors
+Time from prescription to:
+    PA submission
+    PA approval or denial
+    Treatment initiation
+Number of PA denials or appeals
+Need for therapy switching due to insurance barriers
+Step therapy requirements or formulary substitutions
+Previous biologic or systemic therapy failures
+Presence of psoriatic arthritis
+Disease severity indicators, including body surface area involvement, if documented
