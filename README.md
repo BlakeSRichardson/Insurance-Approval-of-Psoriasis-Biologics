@@ -1,10 +1,10 @@
-# Insurance-Approval-of-Psoriasis-Biologics
-This repository contains corresponding data, code, and citations. 
+# Insurance Approval of Psoriasis Biologics 
+Our research aims to evaluate differences in prior authorization approval timelines among biologic therapies for psoriasis across different insurance types. This repository contains corresponding data, code, and citations. 
 <img width="2400" height="1350" alt="GettyImages-1323505857" src="https://github.com/user-attachments/assets/f11dade8-d0f9-4e68-ae97-4c082956e3e8" />
-## Relevant Data 
+## Background Information 
+Psoriasis often requires biologic therapy for moderate-to-severe disease. However, insurance-mandated prior authorizations (PAs) may delay treatment initiation. Different insurance types and biologic classes may experience varying approval timelines, potentially affecting patient outcomes, continuity of care, and overall disease control. Delays in treatment initiation may contribute to worsening flares, decreased quality of life, increased healthcare utilization, and frustration for both patients and providers. Additionally, newer biologic agents may face stricter formulary restrictions, step therapy requirements, or increased denial rates due to cost and insurance preferences.
 
-## Model Training Code
+## Dataset
+[Data](CS2_Hook.pdf) collected from Dermatology Associates of Tallahassee. 
 
-Refer to the [Code Output Resources](Code%20Output%20Resources) folder for starter code to clean and process the dataset, as well as example forecast plots and statistical analysis code output
-## Materials
-The materials folder contains additional COVID-19 statistics, guidance on time-series modeling, effective pandemic response strategies, and information on confounding variables in pandemic measures.
+## Additional Sources
