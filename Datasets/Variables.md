@@ -1,6 +1,6 @@
 Dataset Variables
 
-Patient age and sex<br>
+**Patient age and sex**<br>
 **Insurance type:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Medicare<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Medicaid<br>
