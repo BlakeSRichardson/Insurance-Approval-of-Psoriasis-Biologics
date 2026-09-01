@@ -5,6 +5,6 @@ Our research aims to evaluate differences in prior authorization approval timeli
 Psoriasis often requires biologic therapy for moderate-to-severe disease. However, insurance-mandated prior authorizations (PAs) may delay treatment initiation. Different insurance types and biologic classes may experience varying approval timelines, potentially affecting patient outcomes, continuity of care, and overall disease control. Delays in treatment initiation may contribute to worsening flares, decreased quality of life, increased healthcare utilization, and frustration for both patients and providers. Additionally, newer biologic agents may face stricter formulary restrictions, step therapy requirements, or increased denial rates due to cost and insurance preferences.
 
 ## Dataset
-[Data](Datasets) collected from Dermatology Associates of Tallahassee, including the following [Variables](Variables).
+[Data](Datasets) collected from Dermatology Associates of Tallahassee, including the following [Variables](Datasets/Variables.md).
 ## Additional Sources
 [Sources](Sources) contains relevant data and model samples from credible sources. 
